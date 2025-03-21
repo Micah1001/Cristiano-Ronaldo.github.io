@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<faqs>
+  <faq>
+    <question>What is this website about?</question>
+    <answer>This website provides information on modern web development techniques.</answer>
+  </faq>
+  <faq>
+    <question>How can I contact support?</question>
+    <answer>You can reach out to us via email at support@example.com.</answer>
+  </faq>
+  <faq>
+    <question>Do I need programming knowledge to use this site?</question>
+    <answer>No, we provide beginner-friendly guides to help you get started.</answer>
+  </faq>
+</faqs>
