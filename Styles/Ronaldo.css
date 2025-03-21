@@ -10,7 +10,7 @@
 
 header {
   text-align: center;
-  background-image: url('/Media/Backgrounds/Header-Background.jpeg');
+  background-image: url('Media/Backgrounds/Header-Background.jpeg');
   background-size:contain;
   width: 100%;
   background-position: center;
@@ -185,7 +185,7 @@ footer {
 .home {
   line-height: 1.4;
   background-color: #000000;
-  background-image: url('/Media/Backgrounds/background5.png');
+  background-image: url('Media/Backgrounds/background5.png');
   background-size: cover; 
   background-position: center; 
   background-attachment: fixed; 
@@ -257,7 +257,7 @@ footer {
 .club-career {
   line-height: 1.5;
   background-color: #000000;
-  background-image: url('/Media/Backgrounds/wp11954242-champions-league-stadium-wallpapers.jpg');
+  background-image: url('Media/Backgrounds/wp11954242-champions-league-stadium-wallpapers.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -287,7 +287,7 @@ footer {
 .international-career {
   line-height: 1.5;
   background-color: #000000;
-  background-image: url('/Media/Backgrounds/uwp4685637.png');
+  background-image: url('Media/Backgrounds/uwp4685637.png');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
