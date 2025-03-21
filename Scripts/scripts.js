@@ -24,5 +24,9 @@ function prev() {
     showSlide();
 }
 
-// Initialize carousel on page load
 showSlide();
+
+window.addEventListener('load', () => {
+    const preloader = document.getElementById('preloader');
+    preloader.classList.add('fade-out');
+  });
